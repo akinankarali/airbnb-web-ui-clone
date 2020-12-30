@@ -1,5 +1,3 @@
-import "package:flutter/material.dart";
-
 class Experience {
   final String title, locationPic, desc;
   final int id;

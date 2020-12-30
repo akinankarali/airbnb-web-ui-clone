@@ -1,5 +1,3 @@
-import "package:flutter/material.dart";
-
 class Locations {
   final String title, desc, locationPic;
   final int id;
